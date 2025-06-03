@@ -1,0 +1,1 @@
+# Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos
