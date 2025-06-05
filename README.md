@@ -26,19 +26,20 @@ Neste repositório encantado jaz o Memorial de Encantamentos, cuja missão audac
 # ⚔️ Armas dessa batalha:
 
 🧺 Cesta de Pergaminhos 
- ├── ⚔️README.md  
+ ├── ⚔️README.md
  ├── 📕Livro Antigo: Memorial de Encantamentos - Runas antigas de Redes Neurais e Algoritmos Genéticos.txt
  ├── 📜Pergaminhos: Monstrinho                   
- │    ├── [Monstrinho_3-2.ipynb]()
- │    ├── Monstrinho_3-3.ipynb   
- │    └── Monstrinho_3-4.ipynb           
+ │    ├── [Monstrinho_3-2.ipynb](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinho_3-2.ipynb)
+ │    ├── [Monstrinho_3-3.ipynb](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinho_3-3.ipynb)   
+ │    └── [Monstrinho_3-4.ipynb](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinho_3-4.ipynb)           
  ├── 📜Pergaminhos: Fera
- │    ├── Fera_4-3.ipynb          
- │    ├── Fera_4-6.ipynb           
- │    ├── Fera_4-9.ipynb
- │    └── Fera_4-13.ipynb 
+ │    ├── [Fera_4-1.ipynb](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Fera_4-1.ipynb) 
+ │    ├── [Fera_4-3.ipynb](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Fera_4-3.ipynb)          
+ │    ├── [Fera_4-6.ipynb ](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Fera_4-6.ipynb)          
+ │    ├── [Fera_4-9.ipynb](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Fera_4-9.ipynb)
+ │    └── [Fera_4-13.ipynb](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Fera_4-13.ipynb)
  └── 📜Pergaminhos: Batalha final
-      └── 🔥Tarrasque🔥       
+      └── [🔥Tarrasque🔥](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas.)       
 
 # 🧙 Colaboradores 🧙‍♂️
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425049?v=4" width=115><br><sub>Ana Luz Pereira Mendes</sub>](https://github.com/LuzMendes)<br>[<sub>Ilum - CNPEM</sub>](https://ilum.cnpem.br/)<br> [<sub>Currículo Lattes</sub>](https://lattes.cnpq.br/4596466138573531) [<sub>Linkedin</sub>](https://www.linkedin.com/in/ana-luz-pereira-mendes/)| 
