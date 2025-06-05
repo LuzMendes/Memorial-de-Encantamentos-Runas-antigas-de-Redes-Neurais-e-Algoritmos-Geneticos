@@ -8,7 +8,7 @@
   &nbsp;&bull;&nbsp; Python
 </p>
 
-Autores: Ana Luz Pereira Mendes, Caio Matheus Leão Dantas e Rafael Anis Shaikhzadeh Santos
+Autores: Ana Luz Pereira Mendes
 
 Orientação: Prof. Dr. Daniel R. Cassar
 
