@@ -51,6 +51,7 @@ Neste repositório encantado jaz o Memorial de Encantamentos, cuja missão audac
 
  
  └── <code>📜Pergaminhos: Batalha final</code>
+ │    └── <code>[🕯️LUMI Talks🕯️](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas.) </code>   
  
  │    └── <code>[🔥Tarrasque🔥](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas.) </code>      
 
