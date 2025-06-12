@@ -28,7 +28,7 @@ Neste repositório encantado jaz o Memorial de Encantamentos, cuja missão audac
 
  ├── <code>⚔️README.md</code>
  
- ├── <code>📕Livro Antigo: Memorial de Encantamentos - Runas antigas de Redes Neurais e Algoritmos Genéticos.txt</code>
+ ├── <code>[📕Livro Antigo: Memorial de Encantamentos - Runas antigas de Redes Neurais e Algoritmos Genéticos](https://github.com/LuzMendes/Memorial-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Memorial%20de%20Encantamentos.pdf)</code>
  
  ├── <code>📜Pergaminhos: Monstrinho </code>
  
@@ -51,9 +51,11 @@ Neste repositório encantado jaz o Memorial de Encantamentos, cuja missão audac
 
  
  └── <code>📜Pergaminhos: Batalha final</code>
- │    └── <code>[🕯️LUMI Talks🕯️](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas.) </code>   
+ 
+ │    └── <code>[🕯️LUMI Talks🕯️](-de-Encantamentos-Runas-antigas-de-Redes-Neurais-e-Algoritmos-Geneticos/blob/main/LUMI%20Talks_%20Interpretabilidade%20e%20Explicabilidade%20de%20Redes%20Neurais.pdf) </code>   
  
  │    └── <code>[🔥Tarrasque🔥](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas.) </code>      
 
 # 🧙 Colaboradores 🧙‍♂️
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425049?v=4" width=115><br><sub>Ana Luz Pereira Mendes</sub>](https://github.com/LuzMendes)<br>[<sub>Ilum - CNPEM</sub>](https://ilum.cnpem.br/)<br> [<sub>Currículo Lattes</sub>](https://lattes.cnpq.br/4596466138573531) [<sub>Linkedin</sub>](https://www.linkedin.com/in/ana-luz-pereira-mendes/)| 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425049?v=4" width=115><br><sub>Ana Luz Pereira Mendes</sub>](https://github.com/LuzMendes)<br> [<sub>Ilum - CNPEM</sub>](https://ilum.cnpem.br/)<br> [<sub>Currículo Lattes</sub>](https://lattes.cnpq.br/4596466138573531) [<sub>Linkedin</sub>](https://www.linkedin.com/in/ana-luz-pereira-mendes/)| [<img loading="lazy" src="https://github.com/user-attachments/assets/463d4753-7fa4-4a42-aa54-409e4150bb51" width=115><br> <sub> Prof. Dr. Daniel R. Cassar </sub>](https://github.com/drcassar)<br> [<sub>Ilum - CNPEM</sub>](https://ilum.cnpem.br/)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1717397276752482) | 
+| :---: | :---: | 
